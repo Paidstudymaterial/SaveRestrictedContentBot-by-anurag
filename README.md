@@ -2,16 +2,16 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/Am_RoBots)
+Contact: [Telegram]()
 
-A stable telegram bot to get restricted messages with custom thumbnail support , made by Anurag Maheshwari. 
+A stable telegram bot to get restricted messages with custom thumbnail support , modified by missswty. 
 
 - works for both public and private channels
 - Custom thumbnail support for Pvt medias
 - supports text and webpage media messages
 - Faster speed
 - Forcesubscribe available 
-- `/batch` - (For owner only) Use this command to save upto 100 files from a pvt or public restricted channel at once.
+- `/batch` - (For owner only) Use this command to save upto 100000 files from a pvt or public restricted channel at once.
 - Time delay is added to avoid FloodWait and keep user account safe. 
 
 # Variables
